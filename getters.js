@@ -9,5 +9,11 @@ export default {
   },
   addMoreOne: (state, getters) => {  // 第二个参数是:getters
     return state.count + getters.doneTodos.length;
+  },
+  glen: (state, getters) => {
+    console.log('glen test....');
+  },
+  selina: (state, getters) => {
+    console.log('selina test....');
   }
 };

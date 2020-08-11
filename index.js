@@ -9,6 +9,8 @@ import getters from './getters';
 import mutations from './mutations';
 import modules from './modules';
 
+console.log('aaaaabbbbcccc');
+
 Vue.use(Vuex);
 
 const state = {
