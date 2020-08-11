@@ -8,5 +8,10 @@ export default {
     setTimeout(() => {
       commit('increment', payload);
     }, 1000)
-  }
+  },
+  selina({commit}, payload) {
+    setTimeout(() => {
+      commit('increment', payload);
+    }, 1000)
+  },
 };
