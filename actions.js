@@ -14,4 +14,9 @@ export default {
       commit('increment', payload);
     }, 1000)
   },
+  cTest({commit}, payload) {
+    setTimeout(() => {
+      commit('increment', payload);
+    }, 1000)
+  },
 };

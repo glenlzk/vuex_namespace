@@ -15,5 +15,8 @@ export default {
   },
   selina: (state, getters) => {
     console.log('selina test....');
-  }
+  },
+  cTest: (state, getters) => {
+    console.log('cTest test....');
+  },
 };

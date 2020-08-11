@@ -33,6 +33,10 @@ const state = {
   masterCCC: {
     a:12,
     b:23
+  },
+  ccTese: {
+    d:12,
+    c:232
   }
 };
 
