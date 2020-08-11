@@ -15,5 +15,8 @@ export default {
   },
   selina: (state, getters) => {
     console.log('selina test....');
+  },
+  master0150: (state, getters) => {
+    console.log('selina test....');
   }
 };

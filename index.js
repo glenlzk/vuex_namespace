@@ -33,6 +33,10 @@ const state = {
   masterCCC: {
     a:12,
     b:23
+  },
+  master0150: {
+    a:12,
+    b:23
   }
 };
 
