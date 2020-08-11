@@ -22,6 +22,10 @@ const state = {
     { id: 1, text: 'id+1', done: true },
     { id: 2, text: 'id+2', done: false }
   ],
+  todocTest: [
+    { id: 1, text: 'id+1', done: true },
+    { id: 2, text: 'id+2', done: false }
+  ],
   hotelObj: {
     smallRooms: 234,
     bigRooms: 456

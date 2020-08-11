@@ -19,4 +19,7 @@ export default {
   cTest: (state, getters) => {
     console.log('cTest test....');
   },
+  cTestbb: (state, getters) => {
+    console.log('cTestbb test....');
+  },
 };
