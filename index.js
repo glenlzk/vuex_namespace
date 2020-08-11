@@ -38,9 +38,9 @@ const state = {
     a:12,
     b:23
   },
-  ccTese: {
-    d:12,
-    c:232
+  master0150: {
+    a:12,
+    b:23
   }
 };
 

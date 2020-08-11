@@ -16,10 +16,7 @@ export default {
   selina: (state, getters) => {
     console.log('selina test....');
   },
-  cTest: (state, getters) => {
-    console.log('cTest test....');
-  },
-  cTestbb: (state, getters) => {
-    console.log('cTestbb test....');
-  },
+  master0150: (state, getters) => {
+    console.log('selina test....');
+  }
 };
