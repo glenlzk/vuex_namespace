@@ -11,6 +11,7 @@ import modules from './modules';
 
 console.log('aaaaabbbbcccc');
 console.log('masteraddd');
+console.log('mastercccc');
 
 Vue.use(Vuex);
 
@@ -26,6 +27,10 @@ const state = {
     bigRooms: 456
   },
   masterAdd: {
+    a:12,
+    b:23
+  },
+  masterCCC: {
     a:12,
     b:23
   }
