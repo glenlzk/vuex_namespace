@@ -10,6 +10,7 @@ import mutations from './mutations';
 import modules from './modules';
 
 console.log('aaaaabbbbcccc');
+console.log('masteraddd');
 
 Vue.use(Vuex);
 
@@ -23,6 +24,10 @@ const state = {
   hotelObj: {
     smallRooms: 234,
     bigRooms: 456
+  },
+  masterAdd: {
+    a:12,
+    b:23
   }
 };
 
